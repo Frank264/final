@@ -1,0 +1,32 @@
+.icons{
+    height: 25px;
+    width: 25px;
+    margin: 8px 15px;
+}
+
+.DIFER{
+    border-width: 1px;
+    border-style: solid;
+    border-color: #414042
+}
+
+.row{
+    margin: 0;
+}
+
+#logo{
+    height: 50px;
+    width: auto;
+    margin: 8px;
+}
+
+.nav-wrapper{
+    background-color: #414042;
+}
+
+#search{
+    background-color: white;
+    height: 40px;
+    margin: 10px;
+    border-radius: 25px;
+}
